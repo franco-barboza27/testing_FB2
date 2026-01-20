@@ -1,2 +1,2 @@
 def charCreator():
-    pass
+    print("TESTING")
